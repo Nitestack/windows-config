@@ -1,0 +1,8 @@
+[wsl2]
+memory=8GB
+swap=4GB
+networkingMode=mirrored
+
+[experimental]
+autoMemoryReclaim=gradual
+hostAddressLoopback=true
